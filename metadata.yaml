@@ -5,7 +5,7 @@ contributor:
   - agent_name: Smith, Worthington George
     alias: Smith, Worthington G.
     birthdate: 1835
-    deathdate: &id003 1917
+    deathdate: 1917
     gutenberg_agent_id: '43090'
     url: http://www.gutenberg.org/2009/agents/43090
   - agent_name: Crombie, James M. (James Morrison)
@@ -18,19 +18,19 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/43092
   - agent_name: Rye, E. C. (Edward Caldwell)
     alias: Rye, Edward Caldwell
-    birthdate: &id002 1832
+    birthdate: 1832
     deathdate: 1885
     gutenberg_agent_id: '43084'
     url: http://www.gutenberg.org/2009/agents/43084
   - agent_name: Tate, Ralph
     alias: Tate, R. (Ralph)
     birthdate: 1840
-    deathdate: &id001 1901
+    deathdate: 1901
     gutenberg_agent_id: '43086'
     url: http://www.gutenberg.org/2009/agents/43086
   - agent_name: Southwell, Thomas
     birthdate: 1831
-    deathdate: *id001
+    deathdate: 1901
     gutenberg_agent_id: '43082'
     url: http://www.gutenberg.org/2009/agents/43082
   - agent_name: Britten, James
@@ -40,7 +40,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/43087
   - agent_name: Knaggs, H. Guard (Henry Guard)
     alias: Knaggs, Henry Guard
-    birthdate: *id002
+    birthdate: 1832
     deathdate: 1908
     gutenberg_agent_id: '43083'
     url: http://www.gutenberg.org/2009/agents/43083
@@ -59,7 +59,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/32994
   - agent_name: Braithwaite, Robert
     birthdate: 1824
-    deathdate: *id003
+    deathdate: 1917
     gutenberg_agent_id: '43089'
     url: http://www.gutenberg.org/2009/agents/43089
   - agent_name: Bridgman, John B.
@@ -77,6 +77,8 @@ creator:
     gutenberg_agent_id: '43080'
     url: http://www.gutenberg.org/2009/agents/43080
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45084#Notes-on-Collecting-and-Preserving-Natural-History-Objects
 gutenberg_issued: '2014-03-09'
 gutenberg_type: Text
 identifiers:
